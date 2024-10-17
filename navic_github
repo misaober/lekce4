@@ -16,3 +16,5 @@ klara = Employee("Klára Nová", "konstruktérka", 35)
 print(klara.take_holiday(25))
 print(klara.take_holiday(15))
 print(klara.holiday_entlitlement)
+
+#tak co jeste jednou?
